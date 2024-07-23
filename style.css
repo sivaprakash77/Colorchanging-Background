@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#wholediv{
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 150px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.clickdiv button{
+    padding: 10px 20px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.backgroundcolordiv button{
+    padding: 20px 40px;
+    font-size: 30px;
+    margin-top: 100px;
+}
